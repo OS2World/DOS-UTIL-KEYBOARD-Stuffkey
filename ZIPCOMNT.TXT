@@ -1,0 +1,4 @@
+Stuffkey 4.0d.  
+J.Geist's enhancements to Terje Mathison's Stuffit 3.21.
+The 'd' stands for updated documentation, otherwise this is Stuffkey 4.0.
+

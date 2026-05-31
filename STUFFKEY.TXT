@@ -1,0 +1,8 @@
+Stuffkey 4.0d Keyboard buffer keystuff program. Updates Stuffkey 3.3.
+Originally Terje Mathison's Stuffit 3.21, now includes If/Else logic,
+easy prompts, timeouts for Find and Prompt commands (testable with If/Else)
+a Stop command, better error messages (over 3.3), better time handling in
+background, etc. Includes docs in text, WP 5.1, executables and source for
+both Terje's Stuffit 3.21 and Stuffkey 4.0. (Stuffkey 3.3 has been dropped.)
+Note 4.0d has improved documentation over 4.0; all else is identical.
+Keywords: $binary asm ibm keyboard macro source tsr utility
